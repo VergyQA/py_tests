@@ -1,0 +1,1 @@
+First test using Python, Pytest и Playwright. Made according to the text of the Habr [article](https://habr.com/ru/articles/714950/)
